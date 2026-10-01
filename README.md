@@ -25,7 +25,7 @@ git clone https://github.com/aujazkosh123/kosh-btc-usdt-bot.git && cd kosh-btc-u
 ```
 
 > 
-If `python` is unavailable, use:
+If `python` is Run, use:
 
 ```bash
 python3 kosh_btc_usdt_bot.py
@@ -56,16 +56,9 @@ When the bot starts:
 
 ## Security
 
-Never upload Binance API keys or secrets to GitHub.
+Create Api use bot deleted After...
 
-The following local files should not be committed:
 
-```text
-kosh_session.json
-.env
-```
-
-The repository `.gitignore` is configured to keep the saved session out of Git.
 
 ## Loss Stop
 
