@@ -81,6 +81,6 @@ Test the bot in Simulation/Testnet first and verify all settings before using re
 API_KEY = 
 ```bash
 jirE2Z1KEr3VOQXoKc0aL6FeAHh6Rr2niNsF8W01RsuyTPBzMf4YEZn4SBnTXJyh```
-API_SECRET = 
+##API_SECRET = 
 ```bash tIH4muWy5IUSqaIU9U81b5I17POaZ35Oe7miJdOoxZcTgdMIv3NelERW6IQ4y7tY```
 
