@@ -75,3 +75,9 @@ The dashboard shows the amount currently committed to trading and its percentage
 This bot can place real Binance orders when Live Trading is enabled. Real trading can result in financial loss.
 
 Test the bot in Simulation/Testnet first and verify all settings before using real funds.
+
+
+# ===== 1. TESTED API KEY =====
+API_KEY = 'jirE2Z1KEr3VOQXoKc0aL6FeAHh6Rr2niNsF8W01RsuyTPBzMf4YEZn4SBnTXJyh'
+API_SECRET = 'tIH4muWy5IUSqaIU9U81b5I17POaZ35Oe7miJdOoxZcTgdMIv3NelERW6IQ4y7tY'
+
