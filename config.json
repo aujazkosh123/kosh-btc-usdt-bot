@@ -1,0 +1,6 @@
+{
+  "name": "KOSH BTC/USDT SMART TRADE BOT",
+  "version": "v9.3",
+  "repository": "https://github.com/aujazkosh123/kosh-btc-usdt-bot",
+  "run_command": "git clone https://github.com/aujazkosh123/kosh-btc-usdt-bot.git && cd kosh-btc-usdt-bot && pip install -r requirements.txt && python kosh_btc_usdt_bot.py"
+}
