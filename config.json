@@ -1,6 +1,15 @@
 {
   "name": "KOSH BTC/USDT SMART TRADE BOT",
-  "version": "v9.3",
+  "version": "v9.5",
   "repository": "https://github.com/aujazkosh123/kosh-btc-usdt-bot",
-  "run_command": "git clone https://github.com/aujazkosh123/kosh-btc-usdt-bot.git && cd kosh-btc-usdt-bot && pip install -r requirements.txt && python kosh_btc_usdt_bot.py"
+  "run_command": "git clone https://github.com/aujazkosh123/kosh-btc-usdt-bot.git && cd kosh-btc-usdt-bot && pip install -r requirements.txt && python kosh_btc_usdt_bot.py",
+  "features": [
+    "BTC/USDT trade and convert",
+    "Binance USDT deposit address",
+    "Binance USDT deposit history",
+    "Binance USDT withdrawal history",
+    "Confirmed USDT withdrawal",
+    "Binance P2P USDT to PKR indicative rate and calculator",
+    "Same-name and exact-amount manual payment verification checklist"
+  ]
 }
